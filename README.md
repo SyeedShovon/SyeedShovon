@@ -7,7 +7,6 @@ A highly experienced and creative full stack developer with experience in a vari
 
 **Skills: Laravel - CodeIgniter - PHP - HTML - CSS - Bootstrap - Restful API creation - MySQL**
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Laravel 11 
 - 👯 I’m looking to collaborate on web development 
 
@@ -21,8 +20,6 @@ A highly experienced and creative full stack developer with experience in a vari
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyeedShovon&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SyeedShovon/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/SyeedShovon)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SyeedShovon)  
 
