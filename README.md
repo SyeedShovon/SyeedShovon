@@ -15,7 +15,7 @@ A highly experienced and creative full stack developer with experience in a vari
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SyeedShovon)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyeedShovon)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyeedShovon)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=SyeedShovon&show_icons=true&count_private=true)  -->
 
