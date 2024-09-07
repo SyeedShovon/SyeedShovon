@@ -5,7 +5,7 @@
 
 A highly experienced and creative full stack developer with experience in a variety of exciting projects related to web developing, maintaining database with advanced query knowledge, creating mobile application and API's, managing client requirements, providing solution to the support team.
 
-**Skills: Laravel - CodeIgniter - PHP - HTML - CSS - Bootstrap - Restful API creation - MySQL**
+**Skills: Laravel - CodeIgniter - PHP - HTML - CSS - Javascript - Bootstrap - Restful API creation - MySQL**
 
 - 🌱 I’m currently learning Laravel 11 
 - 👯 I’m looking to collaborate on web development 
