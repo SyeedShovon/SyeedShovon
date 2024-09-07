@@ -21,10 +21,10 @@ A highly experienced and creative full stack developer with experience in a vari
 
 <div class="row">
   <div class="column">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SyeedShovon" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=SyeedShovon" />
   </div>
   <div class="column">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyeedShovon&layout=compact&langs_count=8&card_width=280" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=SyeedShovon&layout=compact&langs_count=8" />
   </div>
 </div>
   
