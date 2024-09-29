@@ -11,7 +11,7 @@ A highly experienced and creative full stack developer with experience in a vari
 - 👯 I’m looking to collaborate on web development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SyeedShovon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-abdullah-abu-syeed-a37a97131//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SyeedShovon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-abdullah-abu-syeed-a37a97131//)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SyeedShovon)](https://github.com/ryo-ma/github-profile-trophy)
 
