@@ -1,5 +1,5 @@
 ![](https://github.com/SyeedShovon/SyeedShovon/blob/main/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
-<img src="https://github.com/SyeedShovon/SyeedShovon/blob/main/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" alt="Cover" height="200">
+<img src="https://github.com/SyeedShovon/SyeedShovon/blob/main/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" alt="Cover" height="400" width="auto">
 ### Hi there 👋, I am Md. Abdullah Abu Syeed
 #### Full stack developer
 
