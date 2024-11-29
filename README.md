@@ -1,4 +1,4 @@
-![linkedin]([https://media.licdn.com/dms/image/v2/D4D16AQEtHIvk7eG4yg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702998550846?e=1730937600&v=beta&t=b1vhhHFtYywMiO0ub_9UIXKmDN9n55UDMcIHR1tQaiA](https://www.linkedin.com/in/md-abdullah-abu-syeed-a37a97131/overlay/background-image/))
+![linkedin]([https://www.linkedin.com/in/md-abdullah-abu-syeed-a37a97131/overlay/background-image/])
 
 ### Hi there 👋, I am Md. Abdullah Abu Syeed
 #### Full stack developer
